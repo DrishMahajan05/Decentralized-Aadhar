@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env/
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# Dependency files
+package-lock.json
+poetry.lock
+Pipfile.lock
+
+# Compiled files
+*.o
+*.out
+*.class
+*.so
+*.dll
+*.exe
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test output
+coverage/
+htmlcov/
+*.cover
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# GitHub folder for actions (optional, if not using)
+.github/
+
+# Misc
+*.bak
+*.tmp
+*.swp
+
+.env
+*.env
+.env.*
+

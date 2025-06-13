@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: pydid
+Version: 0.3.11
+Summary: Python library for validating, constructing, and representing DIDs and DID Documents
+Home-page: https://github.com/Indicio-tech/pydid
+License: Apache 2.0
+Keywords: decentralized,identity,ssi
+Author: Daniel Bluhm
+Author-email: dbluhm@pm.me
+Requires-Python: >=3.6.9,<4.0.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: inflection (>=0.5.1,<0.6.0)
+Requires-Dist: pydantic (>=1.8.1,<2.0.0)
+Requires-Dist: typing-extensions (>=4.0.0,<4.1.0)
+Project-URL: Repository, https://github.com/Indicio-tech/pydid
+Description-Content-Type: text/markdown
+
+# PyDID
+
+[![pypi release](https://img.shields.io/pypi/v/pydid)](https://pypi.org/project/pydid/)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
+Python library for validating, constructing, and representing DIDs and DID Documents.
+
+## Installation
+
+Using a virtual environment is generally recommended:
+
+```sh
+$ python -m venv env
+$ source env/bin/activate
+```
+
+Install with pip:
+
+```sh
+$ pip install pydid
+```
+
+## Development
+
+This project is managed with [Poetry](https://python-poetry.org/).
+
+To begin making code changes, clone this repo and do the following to install
+dependencies:
+
+```sh
+$ python -m venv env
+$ source env/bin/activate
+$ pip install poetry
+$ poetry install
+```
+
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
