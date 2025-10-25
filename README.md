@@ -288,10 +288,10 @@ Licensed under **MIT License**. See LICENSE file for details.
 
 ## 👥 Team
 
-- **Mahim Yadav (2023UEE0142)** — Mobile Application  
-- Anshak (2023UEE0128) — Blockchain Architecture  
-- Aaryan Bansal (2023UMA0200) — Backend Development  
-- Drish Mahajan (2023UEE0133) — Security & Cryptography  
+- **Mahim Yadav (2023UEE0142)**  
+- Anshak (2023UEE0128) 
+- Aaryan Bansal (2023UMA0200) 
+- Drish Mahajan (2023UEE0133) 
 
 **Faculty Advisor:** Dr. Harkefrat Kaur — IIT Jammu
 
